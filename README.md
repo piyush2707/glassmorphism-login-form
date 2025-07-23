@@ -32,8 +32,7 @@ A clean, stylish, and responsive login form designed using HTML, CSS, and JavaSc
 
 ## 🚀 Live Demo
 
-Coming soon after you deploy on GitHub Pages!
-
+(https://piyush2707.github.io/glassmorphism-login-form/)
 ---
 
 ## 🛠️ Technologies Used
